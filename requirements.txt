@@ -1,0 +1,8 @@
+# VibeAgent: Real Estate Price Prediction Agent
+
+## Overview
+VibeAgent is an AI agent designed to predict residential property prices based on various structured input features, including location, size, and amenities.
+
+## Setup Instructions
+1. Clone the repository:
+   
